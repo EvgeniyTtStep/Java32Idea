@@ -1,4 +1,4 @@
-package org.lesson1.Kondrashov;
+package org.Kondrashov;
 
 public class K {
 
