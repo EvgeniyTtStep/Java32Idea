@@ -5,5 +5,11 @@ public class Main {
 
         System.out.println("It change Kondrashov");
         System.out.println("Hello world!");
+        hello();
     }
+
+    public static void hello(){
+        System.out.println("Hello World");
+    }
+
 }
