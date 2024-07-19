@@ -19,7 +19,6 @@ public class Main {
         Date current = new Date();
 
         int currentYear = current.getYear();
-
         Date newYear = new Date(currentYear + 1,  0, 1);
 
         Long untilNewYearMilisec = newYear.getTime() - current.getTime();
